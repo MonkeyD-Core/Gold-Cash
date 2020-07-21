@@ -4,8 +4,8 @@ Our Mission is to make a rare cryptocurrency that is seen as a collectible coin 
 Investors and miners are welcome to join the ever-growing friendly community built around GOLD.
 
 # Wallets
-- [Download GoldCash Core wallet for Windows]()
-- [Download Rtidcoin Core wallet for Debian / Ubuntu Linux](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
+- [Download Gold Cash Core wallet for Windows]()
+- [Download Gold Cash Core wallet for Debian / Ubuntu Linux](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
 
 
 # Coin specifications:
