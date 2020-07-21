@@ -25,7 +25,7 @@ Investors and miners are welcome to join the ever-growing friendly community bui
 https://www.goldcashcoin.co.uk/halvingschedule.html
 
 # Get Mining
-One Click Cpu Miner:
+One Click CPU Miner:https://www.goldcashcoin.co.uk/GoldCashGUIMiner.zip
 
 # Mining pools
 
