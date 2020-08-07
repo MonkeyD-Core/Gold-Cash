@@ -29,9 +29,13 @@ One Click CPU Miner:https://www.goldcashcoin.co.uk/GoldCashGUIMiner.zip
 
 # Mining pools
 Rplant:https://pool.rplant.xyz/
+
 Zwembad:http://zwembad.zapto.org/
+
 Gold Cash Pool (0% fee):https://goldcash-pool.de/
+
 GPUHOT:https://gpuhot.com/
+
 Pool list:https://miningpoolstats.stream/goldcash
 
 
@@ -50,6 +54,7 @@ Gold Cash is open source software developed under [**MIT license**](./LICENSE).
 
 # Contact info and links
 CoinGecko:https://www.coingecko.com/en/coins/gold-cash
+
 CoinPaprika:https://coinpaprika.com/coin/gold-gold-cash/
 
 
