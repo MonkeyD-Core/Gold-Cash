@@ -28,10 +28,15 @@ https://www.goldcashcoin.co.uk/halvingschedule.html
 One Click CPU Miner:https://www.goldcashcoin.co.uk/GoldCashGUIMiner.zip
 
 # Mining pools
+Rplant:https://pool.rplant.xyz/
+Zwembad:http://zwembad.zapto.org/
+Gold Cash Pool (0% fee):https://goldcash-pool.de/
+GPUHOT:https://gpuhot.com/
+Pool list:https://miningpoolstats.stream/goldcash
 
 
-If you're an exchange owner and you would like to add Rtidcoin on your exchange, please [**contact us**](./README.md#contact-info-and-links) and we'll add a link to your exchange here.
-
+# Exchange
+Altmarket:https://altmarkets.io/trading/goldbtc
 
 # Block explorer
 
@@ -44,7 +49,8 @@ Link | Description
 Gold Cash is open source software developed under [**MIT license**](./LICENSE).
 
 # Contact info and links
-
+CoinGecko:https://www.coingecko.com/en/coins/gold-cash
+CoinPaprika:https://coinpaprika.com/coin/gold-gold-cash/
 
 
 **Community:**
@@ -56,6 +62,7 @@ Gold Cash is open source software developed under [**MIT license**](./LICENSE).
 
 **Mining tools:**
 - [**CPU Miner**](https://github.com/JayDDee/cpuminer-opt)
+
 
 
 **Donation:**
