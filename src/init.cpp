@@ -1656,6 +1656,13 @@ bool AppInitMain(boost::thread_group& threadGroup, CScheduler& scheduler)
     connman.AddNode("api.goldcashcoin.co.uk");
     connman.AddNode("pool.goldcashcoin.co.uk");
     connman.AddNode("goldcashblockexplorer.co.uk");
+    connman.AddNode("seed1.goldcashcoin.co.uk");
+    connman.AddNode("seed2.goldcashcoin.co.uk");
+    connman.AddNode("seed3.goldcashcoin.co.uk");
+    connman.AddNode("node.goldcashblockexplorer.co.uk");
+    connman.AddNode("seed1.goldcashblockexplorer.co.uk");
+    connman.AddNode("seed2.goldcashblockexplorer.co.uk");
+    connman.AddNode("seed3.goldcashblockexplorer.co.uk");
     SetRPCWarmupFinished();
     uiInterface.InitMessage(_("Done loading"));
 
